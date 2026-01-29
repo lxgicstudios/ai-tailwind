@@ -1,5 +1,10 @@
 # ai-tailwind
 
+[![npm version](https://img.shields.io/npm/v/ai-tailwind.svg)](https://www.npmjs.com/package/ai-tailwind)
+[![npm downloads](https://img.shields.io/npm/dm/ai-tailwind.svg)](https://www.npmjs.com/package/ai-tailwind)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 Generate tailwind.config.js from your design system colors.
 
 ## Install
