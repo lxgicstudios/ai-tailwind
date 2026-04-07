@@ -1,5 +1,5 @@
 {
-  "name": "ai-tailwind",
+  "name": "@lxgicstudios/ai-tailwind",
   "version": "1.0.0",
   "description": "Generate tailwind.config.js from your design system colors",
   "main": "dist/index.js",
