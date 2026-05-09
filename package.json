@@ -15,9 +15,12 @@
     "build": "tsc"
   },
   "keywords": [
+    "2025-standards",
     "agentic",
     "ai",
+    "ai-2025",
     "ai-agent",
+    "ai-powered",
     "anthropic",
     "automation",
     "claude",
@@ -26,23 +29,25 @@
     "config",
     "css",
     "design-system",
-    "developer-tools",
-    "frontend",
-    "gpt",
-    "llm",
-    "openai",
+    "developer-productivity",
+    "discoverability",
+    "generative-ai",
+    "llm-optimized",
+    "modern-seo",
+    "optimization",
+    "performance",
+    "performance-optimization",
+    "seo",
+    "seo-2026",
     "tailwind",
-    "tailwindcss",
-    "theme",
-    "typescript",
-    "zero-config"
+    "typescript"
   ],
   "author": "LXGIC Studios",
   "license": "MIT",
   "homepage": "https://github.com/LXGIC-Studios/ai-tailwind#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/ai-tailwind.git"
+    "url": "https://github.com/LXGIC-Studios/ai-tailwind"
   },
   "bugs": {
     "url": "https://github.com/LXGIC-Studios/ai-tailwind/issues"
