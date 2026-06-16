@@ -8,7 +8,7 @@
     "ai-tailwind": "dist/cli.js"
   },
   "bugs": {
-    "url": "https://github.com/lxgicstudios/ai-tailwind/issues"
+    "url": "https://github.com/lxgicstudios/npm-tools/issues"
   },
   "dependencies": {
     "commander": "^12.1.0",
@@ -31,26 +31,13 @@
     "type": "github",
     "url": "https://github.com/sponsors/LXGIC-Studios"
   },
-  "homepage": "https://github.com/lxgicstudios/ai-tailwind#readme",
+  "homepage": "https://github.com/lxgicstudios/npm-tools/tree/main/ai-tailwind",
   "keywords": [
-    "2026-standards",
-    "modern-seo",
-    "lxgic",
-    "AI-optimized",
-    "AI-powered",
-    "agentic",
-    "automation",
-    "best-practices",
-    "cli",
-    "developer-tools",
-    "performance",
-    "seo-tools",
-    "technical-seo",
-    "utility",
-    "core-update-ready",
-    "google-ai-overviews",
-    "eeat-seo",
-    "june-2026-update"
+    "tailwindcss",
+    "css",
+    "utility-classes",
+    "design-system",
+    "styling"
   ],
   "license": "MIT",
   "main": "dist/index.js",
@@ -61,7 +48,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/LXGIC-Studios/npm-tools/tree/main/ai-tailwind"
+    "url": "git+https://github.com/lxgicstudios/npm-tools.git",
+    "directory": "ai-tailwind"
   },
   "scripts": {
     "build": "tsc"
