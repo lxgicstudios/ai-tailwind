@@ -47,10 +47,7 @@
     "devtools",
     "gpt",
     "mobile-first",
-    "npx",
-    "typescript",
-    "javascript",
-    "nodejs"
+    "npx"
   ],
   "license": "MIT",
   "main": "dist/index.js",
